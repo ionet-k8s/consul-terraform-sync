@@ -2,8 +2,6 @@ module github.com/hashicorp/consul-terraform-sync
 
 go 1.26.10
 
-toolchain go1.26.10
-
 require (
 	github.com/PaloAltoNetworks/pango v0.5.1
 	github.com/getkin/kin-openapi v0.131.0
